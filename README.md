@@ -1,6 +1,5 @@
 # Breakout-Clone
 
-# Breakout
 
 This repository contains the source code for a Breakout game implemented in Lua using the Love2D framework. The game is based on the classic Breakout arcade game where the player controls a paddle to bounce a ball and break bricks.
 
